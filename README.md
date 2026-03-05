@@ -1,4 +1,4 @@
-# [cite_start]🚦 Urban Traffic Multi-Stage Detection & Analysis [cite: 4]
+🚦 Urban Traffic Multi-Stage Detection & Analysis
 
 [cite_start]This project represents an advanced software system for real-time video monitoring and analysis of urban and pedestrian traffic, using Artificial Intelligence (AI) and Computer Vision technologies[cite: 8]. [cite_start]Developed in the context of accelerated urbanization and the transition to the "Smart City" concept, the system transforms an ordinary video camera into a sensor capable of understanding the surrounding environment[cite: 6, 23].
 
@@ -33,3 +33,13 @@ _(Insert architecture flowchart here)_
 - [cite_start]**Database & ORM:** SQLite & SQLAlchemy [cite: 64]
 
 ## 📸 Visual Demonstration
+<img width="953" height="422" alt="image" src="https://github.com/user-attachments/assets/4d89104f-36d2-4202-9b68-d68f6d775662" />
+<img width="380" height="361" alt="image" src="https://github.com/user-attachments/assets/64abf123-bbdb-43c8-99b1-813ae0b34a10" />
+<img width="989" height="567" alt="image" src="https://github.com/user-attachments/assets/15cd590e-fae7-4524-9e0f-f5bf3e31f0d6" />
+<img width="827" height="914" alt="image" src="https://github.com/user-attachments/assets/94c9d1b4-171c-470d-8a04-66c54f8dd23d" />
+<img width="974" height="116" alt="image" src="https://github.com/user-attachments/assets/418c3d08-f468-41ce-b3db-091524268433" />
+
+
+
+
+
