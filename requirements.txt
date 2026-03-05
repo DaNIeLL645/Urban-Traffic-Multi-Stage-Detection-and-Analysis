@@ -1,0 +1,10 @@
+ultralytics==8.2.0
+opencv-python==4.9.0.80
+easyocr==1.7.1
+numpy==1.24.4
+torch==2.2.1
+torchvision==0.17.1
+tensorflow==2.15.0
+sqlalchemy==2.0.29
+Pillow==10.2.0
+matplotlib==3.8.3
